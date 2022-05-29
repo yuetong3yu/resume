@@ -1,9 +1,13 @@
-import { Header } from './components/Header'
+import React from 'react'
 
-function App() {
+import { Header } from './components/Header'
+import { ThemeButton } from './components/ThemeButton'
+
+const App: React.FC = () => {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
+      <ThemeButton />
     </>
   )
 }

@@ -4,7 +4,7 @@ import { Icon } from './Icon'
 
 export const Header: React.FC = () => {
   return (
-    <div className=" h-16 bg-slate-300">
+    <div className=" flex bg-red-50 pt-6 pl-6">
       <Icon />
     </div>
   )
