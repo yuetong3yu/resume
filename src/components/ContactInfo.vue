@@ -9,7 +9,8 @@
       <span>Auckland, NZ</span>
     </div>
     <div class="brief-intro">
-      A Front End Developer used to work at Fortune 500.
+      A Front End Developer used to work at Fortune 500 with 4 years of
+      experience.
     </div>
   </div>
 </template>
