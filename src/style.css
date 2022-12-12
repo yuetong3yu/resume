@@ -1,0 +1,11 @@
+.a4-page {
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  border: 1px solid #333;
+
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}

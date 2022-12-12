@@ -3,7 +3,7 @@ import ContactInfo from './components/ContactInfo.vue'
 </script>
 
 <template>
-  <div>
+  <div class="a4-page">
     <contact-info></contact-info>
   </div>
 </template>
