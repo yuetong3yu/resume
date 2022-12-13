@@ -1,4 +1,6 @@
 .a4-page {
+  position: relative;
+
   width: 210mm;
   height: 297mm;
   display: flex;
@@ -6,6 +8,7 @@
   align-items: center;
   margin: auto;
   border: 1px solid #333;
+  padding: 8mm;
 
-  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
