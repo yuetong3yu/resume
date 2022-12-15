@@ -12,3 +12,20 @@
 
   font-family: 'Times New Roman', Times, serif;
 }
+
+.section-container {
+  position: relative;
+  width: 100%;
+  margin-top: 6mm;
+  font-weight: 600;
+  font-size: 18px;
+}
+.section-container::after {
+  content: '';
+  position: absolute;
+  bottom: -1mm;
+  left: 0mm;
+  width: 100%;
+  height: 0.8mm;
+  background-color: black;
+}
