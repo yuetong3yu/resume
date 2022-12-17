@@ -1,3 +1,3 @@
 <template>
-  <div class="section-container">!!!!!!</div>
+  <div class="section-container">Summary</div>
 </template>

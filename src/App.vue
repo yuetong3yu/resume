@@ -6,8 +6,8 @@ import Summary from './components/Summary.vue'
 
 <template>
   <div class="a4-page">
-    <contact-info></contact-info>
-    <summary></summary>
-    <skills></skills>
+    <ContactInfo></ContactInfo>
+    <Summary></Summary>
+    <Skills></Skills>
   </div>
 </template>
