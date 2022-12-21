@@ -1,16 +1,26 @@
 <template>
   <div class="section-container">Skills</div>
-  <div class="section-content">
+  <div class="section-content full">
     <ul>
-      <li>Programming Languages: JavaScript, TypeScript</li>
+      <li>JavaScript, TypeScript</li>
       <li>
-        Frameworks and Libraries: React, Vue, Angular, Sass, TailwindCSS,
-        Webpack, Slate.js(for rich editor)
+        React.js, Vue.js, AngularJS, Sass, TailwindCSS, Webpack, Slate.js(for
+        rich editor)
       </li>
-      <li>Technologies: Git, Alibaba Cloud Service, AWS</li>
-      <li>Tools: VSCode, MacOS</li>
+      <li>Git, Alibaba Cloud Service, AWS</li>
+      <li>VSCode, Macintosh</li>
     </ul>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.full {
+  width: 100%;
+  display: inline-block;
+}
+ul {
+  list-style-type: square;
+  margin-left: 4mm;
+  line-height: 1.5em;
+}
+</style>
